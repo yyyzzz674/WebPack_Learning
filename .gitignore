@@ -68,3 +68,6 @@ yarn.lock
 
 # Build directories
 dist
+
+# IDE setting
+.vscode/settings.json
