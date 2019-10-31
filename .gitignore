@@ -61,5 +61,11 @@ typings/
 # next.js build output
 .next
 
+# Install files
 package-lock.json
 yarn.lock
+
+
+# Build directories
+dist
+build
