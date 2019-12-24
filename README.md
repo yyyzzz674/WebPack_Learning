@@ -6,4 +6,3 @@ WebPack 学习
 
 > - [wlx200510](https://github.com/wlx200510/webpack4.x-learn)
 > - [wudiufo](https://github.com/wudiufo/WebPack4-study)
-> - [webpack-box](https://github.com/luoxue-victor/webpack-box)
